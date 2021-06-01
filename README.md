@@ -1,21 +1,26 @@
 # React Counter App
 
-## 📄 Sobre
 
-
-### Uma aplicação simples feita em [React](https://pt-br.reactjs.org/). Trata-se de um contador onde é possível aumentar, diminuir e reiniciar a contagem. 
-
-<br>
 
 ![React Counter App](./public/Record_2021_06_01_11_40_22_661.gif)
 
-<br>
+# Índice
+- [Sobre](#-sobre)
+- [Link](#-link)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
+
+---
+
+## 📄 Sobre
+
+### Uma aplicação simples feita em [React](https://pt-br.reactjs.org/). Trata-se de um contador onde é possível aumentar, diminuir e reiniciar a contagem. 
+---
 ## 🔗 Link
 
 ### Você pode acessar e testar  [clicando aqui](https://gabriel-santana.github.io/react-counter-app/).
 
-<br>
+---
 
 ## 🐙 Como baixar o projeto
 
