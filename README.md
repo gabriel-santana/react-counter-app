@@ -2,7 +2,7 @@
 
 
 
-![React Counter App](./public/demo.gif)
+![React Counter App](./public/appdemo.gif)
 
 # Índice
 - [Sobre](#-sobre)
