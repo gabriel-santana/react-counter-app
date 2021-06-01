@@ -14,3 +14,22 @@
 ## 🔗 Link
 
 ### Você pode acessar e testar  [clicando aqui](https://gabriel-santana.github.io/react-counter-app/).
+
+<br>
+
+## 🐙 Como baixar o projeto
+
+```bash
+# Clonar o repositório
+$ git clone https://github.com/gabriel-santana/react-counter-app.git
+
+# Entrar no diretório
+$ cd react-counter-app
+
+# Instalar as dependências
+$ yarn install
+
+# Iniciar o projeto
+$ yarn start
+
+```
