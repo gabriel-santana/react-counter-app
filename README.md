@@ -3,7 +3,7 @@
 ## 📄 Sobre
 
 
-### Uma aplicação simples feita em [ReactJS](https://pt-br.reactjs.org/). Trata-se de um contador onde é possível aumentar, diminuir e reiniciar a contagem. 
+### Uma aplicação simples feita em [React](https://pt-br.reactjs.org/). Trata-se de um contador onde é possível aumentar, diminuir e reiniciar a contagem. 
 
 <br>
 
