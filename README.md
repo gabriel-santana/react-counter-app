@@ -2,7 +2,7 @@
 
 
 
-![React Counter App](./public/65cc9679-c64d-4dad-ac4e-7089d8732b53.gif)
+![React Counter App](./public/demo.gif)
 
 # Índice
 - [Sobre](#-sobre)
